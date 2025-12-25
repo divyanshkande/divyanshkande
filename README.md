@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="140" style="border-radius:50%;" />
+  <img src="[https://avatars.githubusercontent.com/u/your-github-id?v=4](https://avatars.githubusercontent.com/u/156500307?s=400&u=7832f40f23ce5afc39a0c08aa5fd6056bdcf446f&v=4)" width="140" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Divyansh Kande 👋</h1>
