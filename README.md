@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Divyansh Kande 👋</h1>
 
 <p align="center">
-  <b>Java Backend Developer</b> • <b>Spring Boot</b> • <b>REST APIs</b> • <b>Open Source (GSSoC)</b>
+  <b>Java Backend Developer</b> • <b>Spring Boot</b> • <b>REST APIs</b> 
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ and continuously improving **code quality and system design**.
 ## 📌 Featured Projects
 
 ### 🔹 FinSage – AI-Powered Personal Expense Tracker  
-**Tech Stack:** Java, Spring Boot, React, Tailwind CSS, MySQL, JWT, OCR, LLM APIs, REST  
+**Tech Stack:** Java, Spring Boot, React, Tailwind CSS, MySQL, JWT, OCR, LLM APIs, REST API
 
 - Designed and developed a **full-stack expense management platform** for tracking income, expenses, and savings.
 - Built **secure REST APIs** with Spring Boot using **JWT-based authentication** and **role-based access control**.
@@ -97,7 +97,7 @@ https://github.com/divyanshkande/Wildlife-Animal-Detection-Using-Computer-Vision
 ## 📫 Connect With Me
 
 - 📧 **Email:** divyanshkande04@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/divyansh-kande-608a852  
+- 💼 **LinkedIn:** https://linkedin.com/in/divyansh-kande-608a85266 
 - 🧑‍💻 **GitHub:** https://github.com/divyanshkande  
 
 ---
