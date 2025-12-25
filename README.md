@@ -16,14 +16,18 @@
 
 ## 🚀 About Me
 
-I am a **Java Backend Developer** with hands-on experience in designing and building  
-**secure, scalable RESTful APIs** using **Spring Boot** and **MySQL**.
+I am a **final-year B.Tech student specializing in Artificial Intelligence & Machine Learning** with hands-on experience in  
+**full-stack development** using **React.js, Spring Boot, and MySQL**.
 
-I enjoy working on **real-world backend systems**, integrating **AI-powered services**,  
-and continuously improving **code quality and system design**.
+I am also a **Java Backend Developer** experienced in designing and building  
+**secure, scalable RESTful APIs** using **Spring Boot**, with a strong focus on **clean architecture and system design**.
+
+I enjoy working on **real-world backend systems**, integrating **AI-powered services** (Gemini API, ChatGPT, OpenRouter),  
+and continuously improving **code quality, performance, and scalability**.
 
 - 💻 Backend-focused developer with a clean architecture mindset  
 - 🔐 Experience with JWT authentication & role-based access control  
+- 🤖 AI integration experience (LLM APIs, OCR, CV models)  
 - 🌱 Actively contributing / preparing for **GSSoC**  
 - 🧠 Strong foundation in **DSA & problem-solving**  
 - 🎯 Career goal: **High-impact backend / platform engineer**
@@ -32,15 +36,49 @@ and continuously improving **code quality and system design**.
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+### 💻 Languages
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
+</p>
+
+### 🧠 AI / Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/LLM_APIs-4F46E5?style=for-the-badge" />
+</p>
+
+### 🗺️ Maps & Visualization
+<p>
+  <img src="https://img.shields.io/badge/React_Leaflet-199900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge" />
+</p>
+
+### 🗄️ Database
+<p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🧰 Tools & Others
+<p>
   <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
 ---
