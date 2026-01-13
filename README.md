@@ -79,6 +79,8 @@ and continuously improving **code quality, performance, and scalability**.
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
 </p>
 
 ---
@@ -86,14 +88,14 @@ and continuously improving **code quality, performance, and scalability**.
 ## 📌 Featured Projects
 
 ### 🔹 FinSage – AI-Powered Personal Expense Tracker  
-**Tech Stack:** Java, Spring Boot, React, Tailwind CSS, MySQL, JWT, OCR, LLM APIs, REST API
+**Tech Stack:** Java, Spring Boot, React, Tailwind CSS, MySQL, JWT, OCR, LLM APIs, REST API, FireBase
 
 - Designed and developed a **full-stack expense management platform** for tracking income, expenses, and savings.
 - Built **secure REST APIs** with Spring Boot using **JWT-based authentication** and **role-based access control**.
 - Integrated **OCR pipelines** and **LLM APIs** to automate expense data extraction and generate **AI-driven savings insights**.
 - Developed an **interactive analytics dashboard** using React and Tailwind CSS.
 - Implemented **MySQL-backed persistence** for user profiles, transactions, and preferences.
-
+- Integrated Firebase Authentication with Google Sign-In to support seamless and secure onboarding
 👉 **Repository:**  
 https://github.com/divyanshkande/finsage
 
